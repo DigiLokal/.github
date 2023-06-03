@@ -7,9 +7,9 @@ To bridge the gap between SMEs and digital talents and empower SMEs to compete i
 ## Members
 | Path | Name | StudentID | University
 |--|--|--|--|
-ML | Ardhani Dzaky Ralfiano | M2269J2320 | Universitas Indonesia
-ML | Rachel Aurellia Irawan | M2296F2520 | Universitas Indonesia
-ML | Khoirunnisa | A2296F2521 | Institut Teknologi Sumatera
-CC | Amelia Maharani N | A2296F2519 | Universitas Indonesia
-CC | Raihan Revi Kasya | C2004F0405 | President University
-MD | Mahesa Danuarta | C2248F2199  | President University
+ML | Ardhani Dzaky Ralfiano | M181DSX0153 | Universitas Indonesia
+ML | Rachel Aurellia Irawan | M181DSY0196 | Universitas Indonesia
+ML | Khoirunnisa | M040DSY1835 | Institut Teknologi Sumatera
+CC | Amelia Maharani N | C181DSY0873 | Universitas Indonesia
+CC | Raihan Revi Kasya | C322DSX3265 | President University
+MD | Mahesa Danuarta | A322DSX3376  | President University
