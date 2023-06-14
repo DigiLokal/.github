@@ -1,4 +1,4 @@
-# ![Alt text](https://github.com/DigiLokal/.github/blob/main/profile/digilokal.png "Title")
+# ![Alt text](https://github.com/DigiLokal/.github/blob/main/profile/digilokal_new_bg.png "Title")
 DigiLokal is a platform designed to address the pressing need for SME empowerment by connecting them with digital talents. Our platform offers a range of cost-effective marketing solutions for SMEs, including advertising, social media marketing, content creation, and influencer marketing. We also provide a user-friendly interface for digital talents to showcase their work, connect with potential clients, and access job opportunities.
 
 ## Mission
